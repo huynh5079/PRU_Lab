@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT University\\SP25\\PRU212\\Code\\Slot2-exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9897173B-11C3-CDCD-BB92-D87592B51C6A}|Assembly-CSharp.csproj|d:\\fpt university\\sp25\\pru212\\code\\slot2-exercise\\assets\\script\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9897173B-11C3-CDCD-BB92-D87592B51C6A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\fpt university\\sp25\\pru212\\code\\slot2-exercise\\assets\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "D:\\FPT University\\SP25\\PRU212\\Code\\Slot2-exercise\\Assets\\Script\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyMovement.cs",
+              "ToolTip": "D:\\FPT University\\SP25\\PRU212\\Code\\Slot2-exercise\\Assets\\Script\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:40:30.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "D:\\FPT University\\SP25\\PRU212\\Code\\Slot2-exercise\\Assets\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyMovement.cs",
+              "ToolTip": "D:\\FPT University\\SP25\\PRU212\\Code\\Slot2-exercise\\Assets\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\EnemyMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:12:50.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
